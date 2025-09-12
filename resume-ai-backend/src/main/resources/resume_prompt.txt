@@ -51,3 +51,5 @@ name(string)
 interests: A list of additional interests or hobbies related to technology or professional development  [list of objects having keys].
 id(number)
 name(string)
+
+remember give a valid json object  data of that object can be extracted in react app due to empty value error should not occured
